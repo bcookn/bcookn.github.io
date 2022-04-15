@@ -13,3 +13,5 @@ This project evaluates GHG emissions on a neighborhood-level. I am primarily int
 Test photo:
 
 ![alt text](https://github.com/bcookn/bcookn.github.io/blob/main/Figure_1.png)
+
+  ![image](https://user-images.githubusercontent.com/65251932/163537826-7a3f8751-48ef-480f-9fb9-e455b6327f8f.png)
