@@ -10,6 +10,7 @@ Oxfam Media Briefing, 2015-
 <br>
 This project evaluates GHG emissions on a neighborhood-level. I am primarily interested in differences in emissions between high income neighborhoods and low income neighborhoods. To do this, I will be utilizing Subclassification and Matching via K-Nearest Neighbors to control for the difference in means and estimate average treatment effects. 
 <br>
+<br>
 Test photo:
   
 ![alt text](https://github.com/bcookn/bcookn.github.io/blob/main/Figure_1.png?raw=true)
