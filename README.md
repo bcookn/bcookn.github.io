@@ -6,7 +6,7 @@
 <br> 
 > -- Oxford Media Briefing, 2015
 
-<br> This project evaluates GHG emissions on a neighborhood-level. I am primarily interested in differences in emissions between high income neighborhoods and low income neighborhoods. To do this, I will be utilizing subclassification and matching via k-nearest neighbors to control for the differences in means and estimate average treatment effects. 
+This project evaluates GHG emissions on a neighborhood-level. I am primarily interested in differences in emissions between high income neighborhoods and low income neighborhoods. To do this, I will be utilizing subclassification and matching via k-nearest neighbors to control for the differences in means and estimate average treatment effects. 
 
 Test photo:
 
