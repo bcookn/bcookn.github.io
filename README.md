@@ -2,7 +2,9 @@
 
 ### Evaluating GHG Emissions by Neighborhood Wealth
 #### Overview
-![alt text](https://github.com/bcookn/bcookn.github.io/blob/main/Figure_1.png)
+![image](https://user-images.githubusercontent.com/65251932/163538193-ae3dde3c-1ed0-4b95-b3de-11b72f8cad91.png)
+
+
 *“The 1 percent could emit 30 times more than the poorest 50 percent and 175 times more than the poorest 10 percent”*
 <div dir = "rtl">
 Oxford Media Briefing, 2015 -
