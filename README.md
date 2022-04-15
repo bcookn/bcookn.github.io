@@ -1,5 +1,5 @@
 ## Welcome to my GitHub!
-----------
+
 ### Evaluating GHG Emissions by Neighborhood Wealth
 
 #### Overview
