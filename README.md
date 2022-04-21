@@ -4,7 +4,7 @@
 #### Overview
 *"The 1 percent could emit 30 times more than the poorest 50 percent and 175 times more than the poorest 10 percent"*
 <br> 
-> -- Oxford Media Briefing, 2015
+> -- Oxfam Media Briefing, 2015
 
 Do high income neighborhoods emit more GHG emissions than low income neighborhoods? If so, by how much? This is a short project that evaluates GHG emissions on a neighborhood-level in California as part of my capstone for my masters program. I am primarily interested in the differences in emissions between high income neighborhoods and low income neighborhoods. To do this, I will be utilizing subclassification and matching via k-nearest neighbors to control for the differences in means and estimate average treatment effects. 
 
